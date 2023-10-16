@@ -1,6 +1,6 @@
 {
     "name": "bingstats/drupal-project",
-    "description": "Composer template for Drupal 10 projects",
+    "description": "Composer template for Drupal commerce projects",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "homepage": "https://www.drupal.org/project/drupal",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "bingstats/vstats": "dev-master",
+        "bingstats/vstats": "dev-commerce",
         "composer/installers": "^2.0",
         "drupal/core-composer-scaffold": "^10.1",
         "drupal/core-project-message": "^10.1",
